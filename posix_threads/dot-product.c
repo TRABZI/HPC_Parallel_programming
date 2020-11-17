@@ -9,6 +9,7 @@
 #define NUM_THREADS 4
 #endif
 
+
 #define CHUNK SIZE/NUM_THREADS
 
 int id[NUM_THREADS];
